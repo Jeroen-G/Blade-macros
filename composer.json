@@ -12,8 +12,8 @@
     "homepage": "https://github.com/jeroen-g/blade-macro",
     "keywords": ["Laravel", "Blade", "macro", "Twig"],
     "require": {
-        "php": "8.0.*||8.1.*||8.2.*",
-        "illuminate/support": "^9.0"
+        "php": "8.0.*||8.1.*||8.2.*||8.3.*",
+        "illuminate/support": "^9.0||^10.0||^11.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.0",
